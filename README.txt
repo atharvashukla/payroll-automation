@@ -1,8 +1,6 @@
-# payroll-automation
+== payroll-automation ==
 
-payroll automation code, reckless labs
-
-uses openzeppelin defender's `autotask` and `relayer` to schedule transactions on the mainnet. 
+Payroll automation code for recklesslabs.co, Uses openzeppelin defender's `autotask` and `relayer` to schedule transactions on the mainnet. 
 
 - cron: `0 0 1,15 * *` (1st and 15th of every month)
 - a: 0x3BB1C943d02f2D0Fe1c01ef5b98f494AE450a706
